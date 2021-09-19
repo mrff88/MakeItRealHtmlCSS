@@ -1,0 +1,25 @@
+.primer-contenedor {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(53, 53, 53);
+}
+.segundo-contenedor {
+    width: 100%;
+    height: 1000px;
+    background-image: url(http://pixfootwear.b-cdn.net/4131-thickbox_default/black-ruched-aria-kitten-heel.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tercer-contenedor {
+    width: 100%;
+    height: 400px;
+    background-color: #1c2742;
+    background-image: url(https://fundamentos.makeitreal.camp/images/horizontal-white.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+}
